@@ -1,0 +1,26 @@
+append 101
+append 15
+append 1
+print
+append 8
+append 9
+GetIndex 2
+append 16
+GetLength
+GetIndex 12
+append 21
+append 22
+append 23
+append 24
+append 26
+Search 9
+print
+append 50
+Remove 4
+print
+Remove 8
+append 100
+print
+GetLength
+Search 0
+quit

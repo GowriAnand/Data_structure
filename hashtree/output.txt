@@ -1,0 +1,22 @@
+Adding 60
+Adding 70
+Adding 40
+Adding 80
+Adding 30
+Adding 50
+Adding 10
+Adding 20
+size: 8
+Removing 10
+size: 7
+Searched number found 20
+Searched number not found 5
+the item of the key 20 is : "B"
+the item of the key 100 is : null
+Displaying item - "G"
+Displaying item - "B"
+Displaying item - "C"
+Displaying item - "D"
+Displaying item - "H"
+Displaying item - "E"
+Displaying item - "F"

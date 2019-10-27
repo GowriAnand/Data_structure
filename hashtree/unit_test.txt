@@ -1,0 +1,17 @@
+Add 60 "F"
+Add 70 "G"
+Add 40 "D"
+Add 80 "H"
+Add 30 "C"
+Add 50 "E"
+Add 10 "A"
+Add 20 "B"
+Size
+Remove 10
+Size
+Contains 20
+Contains 05
+getItem 20
+getItem 100
+Print
+quit

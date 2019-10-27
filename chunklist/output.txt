@@ -1,0 +1,47 @@
+Appending 101
+Appending 15
+Appending 1
+
+Printing Node and its values : 
+Node # 1
+101  15  1  
+
+Appending 8
+Appending 9
+Index 2 exists and its value is : 1
+Appending 16
+GetLength: 6
+Index 12 does not exist 
+Appending 21
+Appending 22
+Appending 23
+Appending 24
+Appending 26
+Searched number found : 9
+
+Printing Node and its values : 
+Node # 1
+101  15  1  8  9  16  21  22  
+Node # 2
+23  24  26  
+
+Appending 50
+Removing 4 if it exists
+
+Printing Node and its values : 
+Node # 1
+101  15  1  8  9  16  21  22  
+Node # 2
+23  24  26  50  
+
+Removing 8 if it exists
+Appending 100
+
+Printing Node and its values : 
+Node # 1
+101  15  1  9  16  21  22  
+Node # 2
+23  24  26  50  100  
+
+GetLength: 12
+Searched number not found and hence returning NULL : 0000000000000000
